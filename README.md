@@ -16,3 +16,6 @@ Training the SRGAN : python train.py
 Running the SRGAN (to produce high-res images): python inference.py 
 
 Note : Please modify the input directory in the files to match the location of the inputs images in the system you are running it on. While running inference.py, the output directory (to store the high res images) needs to be specified as well. 
+
+# Results
+The low and high resolution images are placed in the images folder of the repo. 
